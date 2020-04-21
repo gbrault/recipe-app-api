@@ -2,3 +2,5 @@
 
 # recipe-app-api
 Recipe app api source code.
+
+https://www.udemy.com/course/django-python-advanced/
