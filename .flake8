@@ -2,7 +2,7 @@
 exclude =
    migartions,
    __pycache__,
-   app/manage.py,
-   app/app/settings.py,
-   app/app/urls.py,
-   app/app/wsgi.py
+   /app/manage.py,
+   /app/app/settings.py,
+   /app/app/urls.py,
+   /app/app/wsgi.py
