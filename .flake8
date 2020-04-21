@@ -3,4 +3,6 @@ exclude =
    migartions,
    __pycache__,
    manage.py,
-   ./app>app/settings.py
+   app/settings.py,
+   app/urls.py,
+   app/wsgi.py
