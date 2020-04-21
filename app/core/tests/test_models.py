@@ -9,7 +9,7 @@ class ModelTests(TestCase):
         email = 'tes@londonappdev.com'
         password = 'Testpass123'
         user = get_user_model().objects.create_user(
-               email = email,
+               email=email,
                password=password
         )
 
